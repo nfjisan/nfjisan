@@ -12,9 +12,14 @@ Hi there, My name is Jisan Ahmed. I'm 22+ years old, self-taught, software engin
 ### :office: &nbsp;WORK HISTORY
 
 ##### **TMSS ICT Limited, Software Engineer**, 04/2023 - Present | West Kazipara, Mirpur-10, Dhaka
-##### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL 
+##### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL , IonicFramwork
 * Bulk SMS Service System.
 * SAAS School Managment System.
+* HR Managment.
+* Law Management.
+* Monthly Report Attestation.
+* Document Managment System (Docu_vue).
+* Digital Microfinance Credit Score (apps Ionic Framwork & vue3).
 
 ##### **Self Learning Project**
 ##### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL,Bootstrap, MYSQL 
