@@ -18,6 +18,7 @@ Hi there, My name is Jisan Ahmed. I'm 22+ years old, self-taught, software engin
 * HR Managment.
 * Law Management.
 * Monthly Report Attestation.
+* Fees Collection
 * Document Managment System (Docu_vue).
 * Digital Microfinance Credit Score (apps Ionic Framwork & vue3).
 
